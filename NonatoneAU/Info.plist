@@ -16,9 +16,9 @@
 					<key>factoryFunction</key>
 					<string>$(PRODUCT_MODULE_NAME).AudioUnitViewController</string>
 					<key>manufacturer</key>
-					<string>TSPR</string>
+					<string>NTON</string>
 					<key>name</key>
-					<string>tspring: NonatoneAU</string>
+					<string>ntone: NonatoneAU</string>
 					<key>sandboxSafe</key>
 					<true/>
 					<key>subtype</key>

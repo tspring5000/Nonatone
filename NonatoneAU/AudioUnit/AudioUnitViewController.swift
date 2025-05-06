@@ -3,7 +3,7 @@ import CoreAudioKit
 import os
 import SwiftUI
 
-private let log = Logger(subsystem: "com.tspring.Nonatone.NonatoneAU", category: "AudioUnitViewController")
+private let log = Logger(subsystem: "com.ntone.Nonatone.NonatoneAU", category: "AudioUnitViewController")
 
 public class AudioUnitViewController: AUViewController, AUAudioUnitFactory {
     var audioUnit: NonatoneAUAudioUnit?
