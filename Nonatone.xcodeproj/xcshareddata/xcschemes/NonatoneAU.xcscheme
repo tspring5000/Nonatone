@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1530"
+   wasCreatedForAppExtension = "YES"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES"
+      buildArchitectures = "Automatic">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E2C9889A2BEC138E00D01B53"
+               BuildableName = "NonatoneAU.appex"
+               BlueprintName = "NonatoneAU"
+               ReferencedContainer = "container:Nonatone.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E2DC52302BDB125800561A2C"
+               BuildableName = "Nonatone.app"
+               BlueprintName = "Nonatone"
+               ReferencedContainer = "container:Nonatone.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      shouldAutocreateTestPlan = "YES">
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = ""
+      selectedLauncherIdentifier = "Xcode.IDEFoundation.Launcher.PosixSpawn"
+      launchStyle = "0"
+      askForAppToLaunch = "Yes"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "2">
+      <RemoteRunnable
+         runnableDebuggingMode = "0"
+         BundleIdentifier = "com.kymatica.AUM"
+         RemotePath = "/var/containers/Bundle/Application/DFC3EA52-0B42-42EF-8608-A2D9D5183916/AUM.app">
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E2DC52302BDB125800561A2C"
+            BuildableName = "Nonatone.app"
+            BlueprintName = "Nonatone"
+            ReferencedContainer = "container:Nonatone.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES"
+      askForAppToLaunch = "Yes"
+      launchAutomaticallySubstyle = "2">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E2DC52302BDB125800561A2C"
+            BuildableName = "Nonatone.app"
+            BlueprintName = "Nonatone"
+            ReferencedContainer = "container:Nonatone.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
