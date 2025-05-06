@@ -4,7 +4,7 @@ A nine oscillator drone machine written in Swift, powered by Audiokit, for iOS a
 ![icon](public/img.png)
 
 ## Why?
-Nonatone was on sale on the App store for about a year, but understandly (for any app, let alone one as niche as this), interest in it dies down after some time, so when it came time to renew my yearly developer license (something you need to pay to have an app on the app store), I decided it probably wasn't worth it. But rather than letting it disappear, I thought it'd be nice to open source it, hopefully allowing others to learn from it and build their own apps (or even reupload it as-is, it's under MIT license so you can do pretty much whatever you want with it).
+Nonatone was on sale on the App store for about a year, but understandly (for any app, let alone one as niche as this), interest in it dies down after some time, so when it came time to renew my yearly developer license (something you need to pay to have an app on the app store), I decided it probably wasn't worth it. But rather than letting it disappear, I thought it'd be nice to open source it, hopefully allowing others to learn from it and build their own apps (or even rerelease it as-is, it's under MIT license so you can do pretty much whatever you want with it).
 
 Just to note, the primary purpose of this repo is for learning or building, not installing the app as you usually would. I've tried to make it as easy as I can to do that, but a combination of my poor memory of everything I needed to do that originally, and Apple making it quite clear they don't want people installing software from anywhere but their app store, it is a little tricky and will require more work on your end than it would just installing an app from the app store.
 Below are my instructions for installation if your determined to do that, just don't expect it to be perfect.
@@ -21,3 +21,6 @@ Your XCode should also be configured to work with your Apple developer account. 
 4. Now, click the run button (top left of XCode, looks like a play button) and after XCode has done it's business, it should be installed and good to go!
 
 Like I say above, I'm working from memory so I'm likely missing a lot of details (you may need to turn on developer settings on your iOS device as well for example). It's obviously not the ideal way to install an app, so you'll likely need to do a bit of Googling to get it all working, but hopefully the above is enough to get you started at least.
+
+## Future
+From my point of view, Nonatone is done and I probably won't be adding to do in the future. But the fun of open source is that you're free to fork it and do whatever you want with it
