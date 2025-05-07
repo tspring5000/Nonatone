@@ -9,8 +9,6 @@ Nonatone was on sale on the App store for about a year, but understandly (for an
 Just to note, the primary purpose of this repo is for learning or building, not installing the app as you usually would. I've tried to make it as easy as I can to do that, but a combination of my poor memory of everything I needed to do that originally, and Apple making it quite clear they don't want people installing software from anywhere but their app store, it is a little tricky and will require more work on your end than it would just installing an app from the app store.
 Below are my instructions for installation if your determined to do that, just don't expect it to be perfect.
 
-(Just to note, if you previously purchased the app you don't need to bother with this, you can still access it through your previously purchased apps on your Apple account).
-
 ## Installation
 **Requirements**: A Mac with XCode installed, An Apple developer account (free), the iOS you want to install it to (though you can also install it to your mac), and a cable to connect your Mac to your device.  
 Your XCode should also be configured to work with your Apple developer account. Its been a while since I've done this myself so I don't remember exactly how its done, but from what I recall it's pretty much automatic providing you use the same Apple ID as the one you use your Mac with.
